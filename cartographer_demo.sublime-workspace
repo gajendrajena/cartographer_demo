@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T",
+				"TAKEOUT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/locations_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2589,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gajendra/projects/orders24-7-web/.rvmrc",
+		"/home/gajendra/projects/orders24-7-web/Gemfile",
+		"/home/gajendra/projects/orders24-7-web/config/initializers/gmap4rails.rb",
+		"/home/gajendra/projects/orders24-7-web/app/models/location.rb",
+		"/home/gajendra/projects/orders24-7-web/config/environment.rb",
+		"/home/gajendra/projects/orders24-7-web/Gemfile.lock",
+		"/home/gajendra/projects/orders24-7-web/public/javascripts/base.js",
+		"/home/gajendra/projects/orders24-7-web/app/models/order_mode.rb",
+		"/home/gajendra/projects/orders24-7-web/app/controllers/patron_app/locations_controller.rb",
+		"/home/gajendra/projects/orders24-7-web/app/views/pos_location/index.html.erb",
+		"/home/gajendra/projects/orders24-7-web/app/views/gmap4rails/_gmaps4rails.html.erb",
+		"/home/gajendra/projects/orders24-7-web/config/routes.rb",
+		"/home/gajendra/Desktop/map_geocode.html",
+		"/home/gajendra/projects/orders24-7-web/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/gajendra/projects/orders24-7-web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n          ",
+			"jquery",
+			"require 'rails'",
+			"rails",
+			"enhanced_search_options",
+			"LAST LOCATION",
+			"Show All Locations",
+			"Enter address",
+			"Enter address and / or zip code: ",
+			"ze-ne",
+			"\n     =",
+			"\n",
+			"li.",
+			"\n       =",
+			"invalid_location1",
+			"message",
+			"address",
+			", ",
+			":google_header => GMap.header(:host => request.host),\n            :last_order_location => (current_patron.last_order_location unless current_patron.nil?),\n            :error_message => message,\n            :multiple_modes => params[:multiple_modes],\n            :locations_to_display => nearest_loc,\n            :locations_in_state => locations_in_state,\n            :patron_lat => (user_location[0].latitude unless user_location.nil?) ,\n            :patron_long =>(user_location[0].longitude unless user_location.nil?) ,\n            :address => address,\n            :searched_for => session[:patron_address],\n            :order_mode => params[:order_mode],\n            :both_takeout_and_de",
+			"= user_latitude",
+			"user_latitude",
+			"= user_location[0].latitude",
+			"user_latitude = user_location[0].latitude\n        user_longitude = user_location[0].longitude\n        session[:user_latitude] = user_latitude\n        session[:user_longitude] = user_longitude",
+			"set_orderform_session",
+			"TAKEOUT",
+			".order_mode_type",
+			"order_mode_type",
+			"@@order_mode_type_hash",
+			"user_latitude",
+			"both_takeout_and_delivery_not_selected",
+			"locations_in_state",
+			",",
+			"invalid_location",
+			"deligate_request",
+			"message = ",
+			"serializable_all_location_status_attributes",
+			"main",
+			"marker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/locations_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								938,
+								938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"order",
+				"app/models/order_mode.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/gajendra/projects/orders24-7-web/MA.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
